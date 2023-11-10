@@ -2,7 +2,6 @@
 /*Author          : Ramy Mohamed & Muna-Elmetwally                                               */
 /*Date            : 10.11.2023                                                                   */
 /*Information     : printf Team Project                                                          */
-/*                  how programmers use comments                                                 */
 /*               All Copy Rights Reserved (C) 2023/2024                                          */
 /*************************************************************************************************/
 Group Project:                                                                      
